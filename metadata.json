@@ -1,0 +1,6 @@
+{
+  "name": "LakDNS",
+  "description": "لاکت دی‌ان‌اس - ابزار قدرتمند و سبک تغییر دی‌ان‌اس و مدیریت آی‌پی (LakDNS: Lightweight & powerful DNS Changer and IP Manager)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
